@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+   h2 {
+    text-decoration: underline;
+}
+   table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+</style>
+</head>
+<body>
+    <header><h1 style="color: red;">Mój ulobiony rower: moje rowery</h1></header>
+<nav>
+    <li><h2 style="color: red;">Opis roweru</h2></li>
+</nav>
+    <section>
+<p>bardzo piękny, często się psuje, dużo serwisowania, cały czas trzeba coś z nim robic jak nie łożyska to przerzutki a i jeszcze łańcuch xd...</P>
+    <p>le za to ładnie wygląda i się dobrze jeźdź</p>
+</section>
+
+<li><h2 style="color: red;">Zalety takiego rowera</h2></li>
+<ul>
+    <li>jest głośny</li>
+    <li>pełono dzieci krzyczących "daj na koło"</li>
+    <li>dużo ciepłych chłopaków</li>
+</ul>
+<li><h2 style="color: red;">Galeria</h2></li>
+</nav>
+<article>
+    <img src="IMG_4465.JPG" width="350xp"><img src="IMG_3364.JPG" width="262xp"><img src="IMG_3526.JPG" width="262xp"><img src="IMG_3606.JPG" width="262xp"><img src="IMG_3531.JPG" width="262xp">
+</article>
+<table>
+    <h2 style="color: red;">sierwis x razy w tyg.</h2>
+<tr>
+    <th colspan=2>dni tygodnia i serwis</th>
+</tr>
+<tr>
+    <td>poniedziałek</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>wtorek</td>
+    <td>0,5</td>
+</tr>
+<tr>
+    <td>środa</td>
+    <td>2</td>z
+</tr>
+<tr>
+    <td>czwartek</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>piątek</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>sobota</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>niedziela</td>
+    <td>0</td>
+</tr>
+</table>
+<hr style="border: none; border-top: 2px solid #aaa; margin: 25px 0;">
+<p>Autor strony: Jan Kowalski</p>
+<p>Kontakt: Jan.kowalski@liamg.com</p>
+
+</body>
+</html>
